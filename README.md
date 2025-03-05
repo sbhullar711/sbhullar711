@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm Sahibjot Bhullar, a senior at Stony Brook University, majoring in Computer Science with a minor in Technological System Management.<br>💻 Passionate about exploring the intersection of technology and business<br>😃 I'm constantly seeking opportunities to apply my skills in software development and project management. <br>💡 Excited to contribute to innovative projects and collaborate with fellow developers. <br>🚀 Let's connect and create something awesome together! 
+👋 Hey there! I'm Sahibjot Bhullar, a recent graduate from Stony Brook University, bachelor's in Computer Science and Applied Mathematics & Statistics with a minor in Technological System Management.<br>💻 Passionate about exploring the intersection of technology and business<br>😃 I'm constantly seeking opportunities to apply my skills in software development and project management. <br>💡 Excited to contribute to innovative projects and collaborate with fellow developers. <br>🚀 Let's connect and create something awesome together! 
 
 
 ## 🌐 Socials:
